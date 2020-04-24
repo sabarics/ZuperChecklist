@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZuperChecklist"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "ZuperChecklist was built for the purpose of ensuring safety against COVID-19 by maintaining the proper checklist."
 
   # This description is used to generate tags and improve search results.
