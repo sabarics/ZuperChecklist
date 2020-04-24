@@ -7,19 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		189EC918245318EF00BC92B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189EC912245318EE00BC92B6 /* Assets.xcassets */; };
 		189EC919245318EF00BC92B6 /* ZuperForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC913245318EE00BC92B6 /* ZuperForm.swift */; };
-		189EC91A245318EF00BC92B6 /* Layer 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 189EC914245318EE00BC92B6 /* Layer 16.png */; };
-		189EC91B245318EF00BC92B6 /* ZuperForm.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC915245318EE00BC92B6 /* ZuperForm.xib */; };
 		189EC91C245318EF00BC92B6 /* ZuperFormsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC916245318EF00BC92B6 /* ZuperFormsViewModel.swift */; };
-		189EC91D245318EF00BC92B6 /* tick.gif in Resources */ = {isa = PBXBuildFile; fileRef = 189EC917245318EF00BC92B6 /* tick.gif */; };
 		189EC91F2453191500BC92B6 /* ImageCropperViewModel copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC91E2453191500BC92B6 /* ImageCropperViewModel copy.swift */; };
 		189EC9222453191A00BC92B6 /* ImageMarkUpViewController copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9202453191A00BC92B6 /* ImageMarkUpViewController copy.swift */; };
 		189EC9232453191A00BC92B6 /* ImageCropperController copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9212453191A00BC92B6 /* ImageCropperController copy.swift */; };
 		189EC9272453192200BC92B6 /* LibraryFunctions copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9242453192100BC92B6 /* LibraryFunctions copy.swift */; };
 		189EC9282453192200BC92B6 /* AttachmentModel copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9252453192200BC92B6 /* AttachmentModel copy.swift */; };
 		189EC9292453192200BC92B6 /* Library copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9262453192200BC92B6 /* Library copy.swift */; };
-		189EC92B2453192900BC92B6 /* MediaLibrary.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189EC92A2453192900BC92B6 /* MediaLibrary.storyboard */; };
 		189EC9322453193900BC92B6 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC92C2453193800BC92B6 /* Functions.swift */; };
 		189EC9332453193900BC92B6 /* Srings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC92D2453193900BC92B6 /* Srings.swift */; };
 		189EC9342453193900BC92B6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC92E2453193900BC92B6 /* Extensions.swift */; };
@@ -34,7 +29,6 @@
 		189EC9432453195300BC92B6 /* Login copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9402453195300BC92B6 /* Login copy.swift */; };
 		189EC9472453195E00BC92B6 /* LoginViewModel copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9442453195E00BC92B6 /* LoginViewModel copy.swift */; };
 		189EC9482453195E00BC92B6 /* LoginController copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9452453195E00BC92B6 /* LoginController copy.swift */; };
-		189EC9492453195E00BC92B6 /* LoginController copy.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9462453195E00BC92B6 /* LoginController copy.xib */; };
 		189EC94D2453196D00BC92B6 /* SectionListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC94A2453196D00BC92B6 /* SectionListController.swift */; };
 		189EC94E2453196D00BC92B6 /* SuccessController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC94B2453196D00BC92B6 /* SuccessController.swift */; };
 		189EC94F2453196D00BC92B6 /* ChecklistDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC94C2453196D00BC92B6 /* ChecklistDetailController.swift */; };
@@ -45,14 +39,6 @@
 		189EC95B2453197A00BC92B6 /* SingleTextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9542453197A00BC92B6 /* SingleTextFieldCell.swift */; };
 		189EC95C2453197A00BC92B6 /* ImageTypeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9552453197A00BC92B6 /* ImageTypeCell.swift */; };
 		189EC95D2453197A00BC92B6 /* QuestionTypeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC9562453197A00BC92B6 /* QuestionTypeCell.swift */; };
-		189EC95F2453198600BC92B6 /* Checklist.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189EC95E2453198600BC92B6 /* Checklist.storyboard */; };
-		189EC9672453199500BC92B6 /* SingleTextFieldCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9602453199400BC92B6 /* SingleTextFieldCell.xib */; };
-		189EC9682453199500BC92B6 /* MultilineCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9612453199500BC92B6 /* MultilineCell.xib */; };
-		189EC9692453199500BC92B6 /* QuestionTypeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9622453199500BC92B6 /* QuestionTypeCell.xib */; };
-		189EC96A2453199500BC92B6 /* ImageTypeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9632453199500BC92B6 /* ImageTypeCell.xib */; };
-		189EC96B2453199500BC92B6 /* SectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9642453199500BC92B6 /* SectionCell.xib */; };
-		189EC96C2453199500BC92B6 /* RadioTypeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9652453199500BC92B6 /* RadioTypeCell.xib */; };
-		189EC96D2453199500BC92B6 /* CheckBoxTypeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189EC9662453199500BC92B6 /* CheckBoxTypeCell.xib */; };
 		189EC970245319A100BC92B6 /* CheckListDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC96E245319A100BC92B6 /* CheckListDetailViewModel.swift */; };
 		189EC971245319A100BC92B6 /* SectionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189EC96F245319A100BC92B6 /* SectionListViewModel.swift */; };
 		18E3D47B245312C700111CA9 /* ZuperChecklist.h in Headers */ = {isa = PBXBuildFile; fileRef = 18E3D479245312C700111CA9 /* ZuperChecklist.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -425,20 +411,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				189EC91B245318EF00BC92B6 /* ZuperForm.xib in Resources */,
-				189EC9692453199500BC92B6 /* QuestionTypeCell.xib in Resources */,
-				189EC92B2453192900BC92B6 /* MediaLibrary.storyboard in Resources */,
-				189EC95F2453198600BC92B6 /* Checklist.storyboard in Resources */,
-				189EC96A2453199500BC92B6 /* ImageTypeCell.xib in Resources */,
-				189EC96C2453199500BC92B6 /* RadioTypeCell.xib in Resources */,
-				189EC96D2453199500BC92B6 /* CheckBoxTypeCell.xib in Resources */,
-				189EC96B2453199500BC92B6 /* SectionCell.xib in Resources */,
-				189EC9682453199500BC92B6 /* MultilineCell.xib in Resources */,
-				189EC9672453199500BC92B6 /* SingleTextFieldCell.xib in Resources */,
-				189EC918245318EF00BC92B6 /* Assets.xcassets in Resources */,
-				189EC91A245318EF00BC92B6 /* Layer 16.png in Resources */,
-				189EC91D245318EF00BC92B6 /* tick.gif in Resources */,
-				189EC9492453195E00BC92B6 /* LoginController copy.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
